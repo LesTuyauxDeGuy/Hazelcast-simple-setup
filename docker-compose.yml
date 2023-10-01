@@ -1,0 +1,7 @@
+version: '3'
+services:
+  hazelA:
+    image: tdg/hazelcast.simple.setup:0.0.1-SNAPSHOT
+
+  hazelB:
+    image: tdg/hazelcast.simple.setup:0.0.1-SNAPSHOT
